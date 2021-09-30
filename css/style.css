@@ -1,0 +1,14 @@
+ @media screen and (max-width: 600px) {
+    .topnav a {
+      float: none;
+      width: 100%;
+    }
+  } 
+
+  body {
+    display: flex; 
+  }
+  #nav-bar{
+    top:0;
+    position: fixed;
+  }
